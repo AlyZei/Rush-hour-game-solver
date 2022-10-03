@@ -2,7 +2,7 @@
 This repository was meant as a Rush Hour game solver. 
 
 In Java, we first designed classes to define the game and its parameters.
-We then tried solving the game with a straight forward algorithm of graph search. 
+We then tried solving the game with a brute force graph search algorithm. 
 Our last step consisted of trying out different heuristics and comparing the game resolution times for each algorithm. 
 
 Classes used for game parameters definition can be found in the folder "RushHourClasses".
