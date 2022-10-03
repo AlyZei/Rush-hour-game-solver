@@ -9,4 +9,6 @@ Classes used for game parameters definition can be found in the folder "RushHour
 Classes for heuristics definition can be found in the folder "Heuristics".
 Classes for solving game states can be found in the folder "GameSolvers".
 
-Further details about classes and our project are explained in the pdf file titled "".
+Further details about classes and our project are explained in the pdf file titled "INF421".
+
+All files were written in collaboration with Celine Hajjar. 
